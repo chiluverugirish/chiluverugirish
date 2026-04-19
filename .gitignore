@@ -27,3 +27,4 @@ dist-ssr
 .agents/
 resume.tex
 *.log
+*.md

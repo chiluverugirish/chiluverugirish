@@ -274,7 +274,7 @@ export function HeroSection() {
                 }}
               >
                 <img
-                  src="/images/portfolio.me.JPG"
+                  src="/images/portfolio.me.webp"
                   alt="Chiluveru Girish"
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                   onError={(e) => {

@@ -161,15 +161,15 @@ export const projects: Project[] = [
       "An AI learning platform for dyslexic children using emotion-aware interactions, adaptive recommendations, and full-stack progress tracking.",
     stack: ["React", "Node.js", "Express", "MongoDB", "CLIP", "MediaPipe", "AWS", "Terraform"],
     category: "AI + Full Stack",
-    github: "https://github.com/ChiluveruGirish",
+    github: "https://github.com/girishChiluveru/Emotilearn-Face-Expression-Tracker",
   },
   {
     title: "FixMyHyd",
     description:
-      "A multilingual civic issue reporting assistant that classifies problems, analyzes images and voice input, and automates report creation.",
-    stack: ["Flask", "SQLite", "LangChain", "Gemini API", "Telegram Bot", "REST API"],
+      "A multilingual civic issue reporting assistant incorporating conversational memory and RAG to classify problems, analyze multimodal (image/voice) inputs, and automate report creation.",
+    stack: ["Flask", "SQLite", "LangChain", "Gemini API", "Telegram Bot", "REST API", "RAG", "Memory"],
     category: "Agentic AI",
-    github: "https://github.com/ChiluveruGirish",
+    github: "https://github.com/girishChiluveru/fixMyHyb_Buidathon",
   },
   {
     title: "Reinvent-Scoring",
@@ -177,7 +177,7 @@ export const projects: Project[] = [
       "GPU-accelerated molecular scoring package extending open-source chemistry tooling with high-throughput, multi-GPU workflows.",
     stack: ["Python", "RDKit", "Roshambo", "OpenMM", "CUDA", "Scientific Computing"],
     category: "Open Source",
-    github: "https://github.com/ChiluveruGirish",
+    github: "https://github.com/Girish09-work/Reinvent-Scoring",
   },
   {
     title: "Nivasa",
@@ -185,7 +185,7 @@ export const projects: Project[] = [
       "Hotel booking platform with secure auth, geocoding-powered search, and idempotent booking flows for reliable reservations.",
     stack: ["Node.js", "Express", "MongoDB", "EJS", "Bootstrap", "OAuth", "JWT"],
     category: "Product Engineering",
-    github: "https://github.com/ChiluveruGirish",
+    github: "https://github.com/girishChiluveru/Nivasa",
   },
 ];
 

@@ -108,32 +108,7 @@ export function ExperienceSection() {
                     </span>
                   </div>
 
-                  {/* Status badge */}
-                  <div
-                    style={{
-                      marginTop: "1.25rem",
-                      display: "inline-flex",
-                      alignItems: "center",
-                      gap: "0.4rem",
-                      padding: "0.3rem 0.8rem",
-                      borderRadius: "100px",
-                      border: "1px solid rgba(52,211,153,0.35)",
-                      background: "rgba(52,211,153,0.08)",
-                    }}
-                  >
-                    <span
-                      style={{
-                        width: 6,
-                        height: 6,
-                        borderRadius: "50%",
-                        background: "var(--accent-emerald)",
-                        boxShadow: "0 0 6px var(--accent-emerald)",
-                      }}
-                    />
-                    <span className="font-mono" style={{ fontSize: "0.68rem", color: "var(--accent-emerald)" }}>
-                      Active
-                    </span>
-                  </div>
+
                 </div>
 
                 {/* Achievements */}

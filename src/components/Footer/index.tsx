@@ -102,13 +102,13 @@ export function Footer() {
             className="font-mono"
             style={{ fontSize: "0.72rem", color: "var(--text-muted)" }}
           >
-            © 2026 Chiluveru Girish. Built with React, TypeScript & Vite.
+            © 2026 Chiluveru Girish.
           </p>
           <p
             className="font-mono"
             style={{ fontSize: "0.72rem", color: "var(--text-muted)", display: "inline-flex", alignItems: "center", gap: "0.3rem" }}
           >
-            Crafted with <Heart size={11} style={{ color: "var(--accent-rose)" }} /> in Hyderabad
+            Crafted with <Heart size={11} style={{ color: "var(--accent-rose)" }} /> from India
           </p>
         </div>
       </div>
